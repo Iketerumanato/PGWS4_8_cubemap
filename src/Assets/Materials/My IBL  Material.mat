@@ -52,6 +52,7 @@ Material:
     m_Floats:
     - _RataAxisX: 0
     - _RataAxisY: 1
-    - _RotaSpeed: 0.01
+    - _RataAxisZ: 0
+    - _RotaSpeed: 0.1
     m_Colors: []
   m_BuildTextureStacks: []
