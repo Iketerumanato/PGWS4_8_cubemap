@@ -35,11 +35,23 @@ Material:
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
-    m_TexEnvs: []
+    m_TexEnvs:
+    - _SampleReflectedCubemap_ee3b40abfae74d2bb636edf722f4e49a_Cube_1_Cubemap:
+        m_Texture: {fileID: 8900000, guid: 2db5518b9fb7e6441940422d80fb37a9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleReflectedCubemap_fb33018434f0437b86ade013c6db2a55_Cube_1_Cubemap:
+        m_Texture: {fileID: 8900000, guid: 83105da6d7abafc43bcf2c278462f242, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SkyCubemap:
+        m_Texture: {fileID: 8900000, guid: 83105da6d7abafc43bcf2c278462f242, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
     - _RataAxisX: 0
     - _RataAxisY: 1
-    - _RotaSpeed: 0.1
+    - _RotaSpeed: 0.01
     m_Colors: []
   m_BuildTextureStacks: []

@@ -67,12 +67,28 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleReflectedCubemap_19a3cf8aa4134b9da2d3f8f095ea86d5_Cube_1_Cubemap:
+        m_Texture: {fileID: 8900000, guid: 2db5518b9fb7e6441940422d80fb37a9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_1da9945bfd654ed099137f4ae65df0ef_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 05ff4a05c3c16f3419fabe4a216d0f41, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_1ed1a47de0c84eb088f7efa21ad9ca30_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: be71a246918332e47aef51520870488c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_386488f8a6b94519bd5c8761c0b4c1d6_Texture_1_Texture2D:
         m_Texture: {fileID: 2800000, guid: 05ff4a05c3c16f3419fabe4a216d0f41, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_4b2ea8f1008d4aa187014766625621d3_Texture_1:
         m_Texture: {fileID: 2800000, guid: 87cdf3e5293307e43981299c151bcfe9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_8d87bee9d56c49da84d5d56781c08d42_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: dcc757effa9a4494ab3862d1623d3b54, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_ca2e6ab553974da79c9dec6861f45eaa_Texture_1:
@@ -81,6 +97,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_d4e8686151a74cdb88d1d071d2d325bf_Texture_1:
         m_Texture: {fileID: 2800000, guid: dcc757effa9a4494ab3862d1623d3b54, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_fa4e1a7b33724fae84b8190293184d0f_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 87cdf3e5293307e43981299c151bcfe9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
